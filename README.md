@@ -1,6 +1,6 @@
 What Does Reproducible Research Mean for Plant Pathology
 ================
-A. H. Sparks, E. M. Del Ponte, N. J. Grünwald, and Z. Foster
+A. H. Sparks, E. M. Del Ponte, Z. S. L. Foster, and N. J. Grünwald,
 2016-09-06
 
 AUTHORS and AFFILIATIONS
